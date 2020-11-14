@@ -1,0 +1,22 @@
+[1111/231015.844:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/232015.885:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/232015.887:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Mrala\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\243139c5-74f2-4b58-b63f-7a473a6746c4: The system cannot find the path specified. (0x3)
+[1111/232015.888:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Mrala\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\ad7a5f0b-a1a9-4c32-b523-02930d0b457c: The system cannot find the path specified. (0x3)
+[1111/232015.890:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Mrala\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\cd2ef14a-4fbe-42af-b321-c6eb12b5b7be: The system cannot find the path specified. (0x3)
+[1111/232015.891:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Mrala\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\ce0c1f7f-cfe7-4210-a21d-1c446732ef86: The system cannot find the path specified. (0x3)
+[1111/232015.891:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1111/232015.891:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/232015.891:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/232103.087:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/232229.309:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/232515.864:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/234015.864:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/234115.601:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/234533.589:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/235515.865:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1112/001015.862:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1112/002515.863:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1112/004015.863:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1112/005515.864:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1112/011015.864:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1112/012515.865:ERROR:crash_report_database_win.cc(457)] unexpected header
